@@ -1,0 +1,26 @@
+a:link {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: rgb(86, 129, 248);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+  body {background-color: rgba(237, 253, 255, 0.795);}
+h1   {
+    color: rgb(0, 0, 0);
+    font-family: 
+}
+p    {
+    color: rgb(0, 0, 0);
+    font-family: "Times New Roman", Times, Sans-serif;
+}
+p1    {color: red;}
